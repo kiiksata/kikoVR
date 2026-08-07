@@ -254,7 +254,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr.picoxr": {
-      "version": "file:C:/Users/Luka/Desktop/kikovr/Unity OpenXR IntegrationSDK-1.4.0-20250407 (2)",
+      "version": "file:C:/Users/RazerPC/Downloads/Unity OpenXR IntegrationSDK-1.4.0-20250407 (2)",
       "depth": 0,
       "source": "local",
       "dependencies": {
